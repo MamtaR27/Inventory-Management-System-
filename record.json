@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>README.md (editing)</title>
+    <title>record.json (editing)</title>
     <link id="favicon" rel="shortcut icon" type="image/x-icon" href="/static/base/images/favicon-file.ico?v=f9f0a782d7d67b3a57bf7dce251d771b405c7890604576ec8b9a621a39d7670f6b43ffabef1e566f1cd741ee302e15977d9e1cf60bbacebafe75787b9916415c">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <link rel="stylesheet" href="/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=fb45616eef2c454960f91fcd2a04efeda84cfacccf0c5d741ba2793dc1dbd6d3ab01aaae6485222945774c7d7a9a2e9fb87e0d8ef1ea96893aa6906147a371bb" type="text/css" />
@@ -114,7 +114,7 @@
 <body class="edit_app "
  
 data-base-url="/"
-data-file-path="README.md"
+data-file-path="record.json"
 
   
     data-jupyter-api-token="5bbebf14bb00b6a3fb4fb179f79f8e4e8371d8f43104ba5a"
